@@ -1,2 +1,20 @@
 [use line wrap]
 particle grid:
+each particle has a gravitational field which attracts all other particles towards it, however, if two particles get too close to each other the same gravitational force prevents them from colliding. This means that particles can affect each other without touching. Note that this does not mean that they cannot collide at all. The gravitational field could be a form in a higher dimension than our comprehension, that way all particles could have one side of their gravitational field further from them and the other side of it closer to them, even though both of these sides are equal.
+It could be a torus.
+solid objects: 
+each particle that a solid object is comprised of is restrained in its movement by a "lack of force (energy)" which makes particles unable to move relative to each other.
+The crystal grid:
+?
+the density is a parameter only for multiple particles, it is determined by the distance between them
+liquids: 
+each particle is not as restrained in its movement. The gravitational force of a planet should make a liquid particle fall. For particles to act like a liquid formation they would need a parameter of viscosity, how hard it is for a particle to move relative to other (adjacent?). Viscosity differs liquids from solid objects.
+gasses: 
+each particle is able to move freely. Viscosity is approximately 0. 
+celestial formations: 
+gravitational pull of a particle is determined by its mass. Planets form from particles pulled together. The core of a planet is made from dense formations and is hot. Temperature is determined by the energy a particle is spending to not remain in its position. At the center of a star or a planet particles are pulled together by lots of gravitational force from each other. Lots of energy is produced by particles at the center pushing each other outwards from themselves. The particles closer to the surface of a celestial formation are, accordingly, lighter.
+physical senses of creatures: 
+vibrations (hearing) are practically movement of particles (wave = unified vector, length of vector = loudness, distance between particles = information).
+touch is recieving energy of the particle touched, its vector, unified vector.
+sight requires light, which in terms is impossible. However, there could exist a path finding mechanism, though it seems unnecessary.
+taste is parameters, unnecessary.
