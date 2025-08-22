@@ -1,10 +1,34 @@
+@media(max-width: height) {
+
 html {
-	background-color: black;
+	background-color: #000104ff;
+}
+body{
+margin-left: 4%
+margin-right: 4%
 }
 p {
-	color: white;
-	
+	color: white;
 }
 .drawing1 {
 	margin-right: 50%;
+}
+}
+
+@media(max-height: width) {
+
+html {
+	background-color: black;
+}
+body{
+margin-left: 27%
+margin-right: 27%
+}
+p {
+	color: white;
+}
+.drawing1 {
+	margin-right: 50%;
+
+}
 }
