@@ -1,22 +1,3 @@
-@media(max-width: height) {
-
-html {
-	background-color: #000104ff;
-}
-body{
-margin-left: 4%
-margin-right: 4%
-}
-p {
-	color: white;
-}
-.drawing1 {
-	margin-right: 50%;
-}
-}
-
-@media(max-height: width) {
-
 html {
 	background-color: black;
 }
@@ -30,5 +11,18 @@ p {
 .drawing1 {
 	margin-right: 50%;
 
+@media(max-width: 600px) {
+html {
+	background-color: #000104ff;
+}
+body{
+margin-left: 4%
+margin-right: 4%
+}
+p {
+	color: white;
+}
+.drawing1 {
+	margin-right: 50%;
 }
 }
